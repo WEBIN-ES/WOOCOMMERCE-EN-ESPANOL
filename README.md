@@ -1,4 +1,4 @@
 WOOCOMMERCE-EN-ESPANOL
 ======================
 
-Traducción completa del módulo-plugin Woocommerce al español
+Traducción completa del módulo-plugin Woocommerce al español: 
